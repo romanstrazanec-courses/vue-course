@@ -1,3 +1,3 @@
-# Assignment 3
+# Assignment 3 Reactivity
 
 ![Finished assignment](assignment.png)

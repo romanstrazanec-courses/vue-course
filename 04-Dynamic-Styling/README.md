@@ -1,3 +1,3 @@
-# Assignment 4
+# Assignment 4 Dynamic Styling
 
 ![Finished assignment](assignment.png)

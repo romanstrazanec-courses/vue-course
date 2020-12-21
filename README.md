@@ -83,7 +83,7 @@ Nothing here!
 
 ## Section 19: The Composition API - Replacting the Options API
 
-= [ ] [Assignment 7: Data & Functions](https://github.com/romanstrazanec/vue-course/tree/master/07-Data-And-Functions)
+- [ ] [Assignment 7: Data & Functions](https://github.com/romanstrazanec/vue-course/tree/master/07-Data-And-Functions)
 - [ ] [Assignment 8: Composition API Core Building Blocks](https://github.com/romanstrazanec/vue-course/tree/master/08-Composition-API-Core-Building-Blocks)
 
 ## Section 20: Reusing Functionality: Mixins & Custom Composition Functions

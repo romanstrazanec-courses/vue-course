@@ -1,3 +1,3 @@
 # Assignment 2
 
-![Finished assignment](assignment2.png)
+![Finished assignment](assignment.png)
